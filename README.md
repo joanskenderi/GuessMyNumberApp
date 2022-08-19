@@ -1,4 +1,4 @@
-# Course Goals App
+# Guess My Number App
 
 Project from “React Native - The Practical Guide” course on Udemy by Maximilian Schwarzmüller.
 
